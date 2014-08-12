@@ -1,0 +1,1 @@
+This is a Java implementation of Restricted Boltzmann Machine (RBM).
